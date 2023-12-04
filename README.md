@@ -25,6 +25,7 @@ git clone https://github.com/yurigaldino/qa-web-test-challenge.git
 
   ```bash
   pip install selenium
+  pip install html-testRunner
   ```
 
 4. Download and place the WebDriver executable (e.g., ChromeDriver) in the project directory or update the webdriver.Chrome() line in the code with the correct path.
