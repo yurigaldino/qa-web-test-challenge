@@ -39,7 +39,7 @@ python test_script.py
 This will run the tests and generate an XML report in the 'test-reports' directory.
 
 ## Commit and Branch Patterns
-#### Branch Naming
+#### Branch Naming _(maybe wont't be use for this simple project)_
 - feature/{two_chars_of_your_name}/{feature-name}: For adding a new feature.
 - bugfix/{two_chars_of_your_name}/{bug-description}: For fixing a bug.
 - enhancement/{two_chars_of_your_name}/{enhancement-description}: For improvements and enhancements.
