@@ -50,7 +50,7 @@ git commit -m "add login test"
 ```
 
 Contributor
-Your Name yurifgdesouza@gmail.com
+yurifgdesouza@gmail.com
 
 
 
