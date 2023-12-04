@@ -32,7 +32,7 @@ Run the following command to execute the tests:
 ```bash
 python qa-web-test-challenge.py
 ```
-This will run the tests and generate an XML report in the 'test-reports' directory.
+This will run the tests and generate an HTML report in the 'test-reports' directory.
 
 ## Commit and Branch Patterns
 #### Branch Naming _(maybe wont't be use for this simple project)_
