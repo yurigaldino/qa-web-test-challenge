@@ -1,10 +1,6 @@
-# qa-web-test-challenge
+# qa-web-test-challenge (a Selenium Web Automation Project)
 
 This README includes explanations of the project, instructions on how to run the tests, and information about commit and branch patterns.
-
-# Selenium Web Automation Project
-
-This project is a Selenium-based web automation framework for testing the saucedemo.com website. It includes test cases written in Python using the unittest framework, and the Page Object Pattern for better test maintenance.
 
 ## Setup
 
