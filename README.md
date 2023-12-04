@@ -17,24 +17,20 @@ This README includes explanations of the project, instructions on how to run the
 git clone https://github.com/yurigaldino/qa-web-test-challenge.git
 ```
    
-2. Navigate to the project directory:
-  ```bash
-  cd qa-web-test-challenge
-  ```
-3. Install the required dependencies:
+2. Install the required dependencies:
 
   ```bash
   pip install selenium
   pip install html-testRunner
   ```
 
-4. Download and place the WebDriver executable (e.g., ChromeDriver) in the project directory or update the webdriver.Chrome() line in the code with the correct path.
+3. Download and place the WebDriver executable (e.g., ChromeDriver) in the project directory or update the webdriver.Chrome() line in the code with the correct path.
 
 ## Running Tests
 Run the following command to execute the tests:
 
 ```bash
-python test_script.py
+python qa-web-test-challenge.py
 ```
 This will run the tests and generate an XML report in the 'test-reports' directory.
 
